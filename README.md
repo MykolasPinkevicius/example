@@ -9,4 +9,8 @@ It's much easier to understand if you know the command line and need custom deci
 
 ## Second Level Heading
 
-Just editin gwith powershell
+Just editing with powershell
+
+### Third Level Heading
+
+Just editing with atom
