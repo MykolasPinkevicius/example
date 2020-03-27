@@ -13,11 +13,11 @@ Just editing with powershell
 
 ### Third Level Heading
 
-Just editing with atom_title_running_first_repository_example
+Just editing with atom_title_running_first_repository_example_and_more_changes
 
 #### Forth Level Changes
 
 Just commiting to understand more git
 
 
-REMOTE Example Repository
+REMOTE Example Repository And More Changes
